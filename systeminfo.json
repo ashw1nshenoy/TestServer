@@ -1,0 +1,657 @@
+{
+  "SystemInfo": {
+    "WindowsInfo": {},
+    "UserInfo": {
+      "Username": "Test",
+      "MachineName": "DESKTOP-IORGFK5",
+      "DomainName": "DESKTOP-IORGFK5",
+      "Is64BitOS": true
+    },
+    "UUID": "4C4C4544-0056-5610-8056-B8C04F4D3933",
+    "IPAddress": "10.2.30.116",
+    "MacAddresses": [
+      "Wi-Fi: B0:7D:64:CA:FA:35"
+    ],
+    "CpuInfo": {
+      "Name": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "SerialNumber": "BFEBFBFF000806EC",
+      "Manufacturer": "GenuineIntel",
+      "ProcessorType": "Intel64 Family 6 Model 142 Stepping 12",
+      "MaxClockSpeed": "2112 MHz",
+      "NumberOfCores": 4,
+      "NumberOfLogicalProcessors": 8,
+      "L2CacheSize": "1024 KB",
+      "Architecture": "9",
+      "DataWidth": "64-bit",
+      "AddressWidth": "64-bit",
+      "Voltage": "6",
+      "CurrentClockSpeed": "1609 MHz",
+      "SocketDesignation": "CPU 1"
+    },
+    "RamInfo": "Total RAM: 7.77 GB",
+    "SwapInfo": {
+      "FileName": "C:\\pagefile.sys",
+      "AllocatedSizeMB": "1720",
+      "CurrentUsageMB": "249"
+    },
+    "RunningProcesses": null,
+    "DiskDrives": [
+      {
+        "DriveLetter": "C:",
+        "VolumeName": "",
+        "FileSystem": "NTFS",
+        "TotalSizeGB": 476.29,
+        "FreeSpaceGB": 421.76
+      }
+    ],
+    "PhysicalDisks": [
+      {
+        "Name": "\\\\.\\PHYSICALDRIVE0",
+        "Model": "PC611 NVMe SK hynix 512GB",
+        "Manufacturer": "(Standard disk drives)",
+        "SizeMB": 488382,
+        "InterfaceType": "SCSI",
+        "SerialNumber": "ACE4_2E00_0A87_B86D_2EE4_AC00_0000_0001.",
+        "FirmwareRevision": "11002111",
+        "MediaType": "Fixed hard disk media"
+      }
+    ],
+    "Motherboard": {
+      "Manufacturer": "Dell Inc.",
+      "Product": "0PD7RH",
+      "SerialNumber": "/8VVVM93/CNWSC0011O0JYF/"
+    },
+    "Bios": {
+      "Manufacturer": "Dell Inc.",
+      "ReleaseDate": "2024-09-09T05:30:00",
+      "BiosVersion": "DELL   - 20170001, 1.31.0, Dell - 10000",
+      "SerialNumber": "8VVVM93"
+    },
+    "DomainInfo": {
+      "Domain": "WORKGROUP",
+      "DomainRole": "0",
+      "PartOfDomain": false
+    },
+    "InstalledSoftwares": [
+      {
+        "Name": "Visual Studio Community 2022",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.6",
+        "Comments": null
+      },
+      {
+        "Name": "Google Chrome",
+        "Publisher": "Google LLC",
+        "Version": "135.0.7049.115",
+        "Comments": null
+      },
+      {
+        "Name": "Microsoft Edge",
+        "Publisher": "Microsoft Corporation",
+        "Version": "136.0.3240.50",
+        "Comments": null
+      },
+      {
+        "Name": "Microsoft Edge WebView2 Runtime",
+        "Publisher": "Microsoft Corporation",
+        "Version": "136.0.3240.50",
+        "Comments": null
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.15 Targeting Pack (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "8.0.15.25165",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 9.0.4 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "72.16.31142",
+        "Comments": ""
+      },
+      {
+        "Name": "Sclera",
+        "Publisher": "Sclera",
+        "Version": "1.0.0",
+        "Comments": "This installer database contains the logic and data required to install Sclera. (Evaluation Installer)"
+      },
+      {
+        "Name": "Microsoft .NET Host - 9.0.4 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "72.16.31125",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.15 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "64.60.31203",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.7.03062",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_CoreEditorFonts",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.7.40001",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.8.09037",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_devenvsharedmsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Host FX Resolver - 9.0.4 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "72.16.31125",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_BlendMsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.4 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "72.16.31142",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 9.0.4 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "72.16.31125",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_githubprotocolhandlermsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "Entity Framework 6.5.0 Tools  for Visual Studio 2022",
+        "Publisher": "Microsoft Corporation",
+        "Version": "6.5.0.0",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_communitymsires",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_communitysharedmsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_filehandler_amd64",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_clickoncesigntoolmsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Visual Studio Setup WMI Provider",
+        "Publisher": "Microsoft Corporation",
+        "Version": "3.12.2140.44225",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_vswebprotocolselectormsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.15 Shared Framework (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "8.0.15.25165",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 8.0.15 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "64.60.31149",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34438",
+        "Publisher": "Microsoft Corporation",
+        "Version": "14.42.34438",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_minshellsharedmsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.4 Targeting Pack (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "9.0.4.25164",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_minshellmsires",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft TestPlatform SDK Local Feed",
+        "Publisher": "Microsoft",
+        "Version": "17.10.0.9037153",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 8.0.15 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "64.60.31203",
+        "Comments": ""
+      },
+      {
+        "Name": "vcpp_crt.redist.clickonce",
+        "Publisher": "Microsoft Corporation",
+        "Version": "14.42.34438",
+        "Comments": ""
+      },
+      {
+        "Name": "icecap_collectionresources",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8 SDK",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.8.03928",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_FileTracker_Singleton",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_minshellinteropsharedmsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "icecap_collectionresourcesx64",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8 Targeting Pack (ENU)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.8.03761",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34438",
+        "Publisher": "Microsoft Corporation",
+        "Version": "14.42.34438",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 9.0.4 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "72.16.31125",
+        "Comments": ""
+      },
+      {
+        "Name": "Advanced Installer 22.6",
+        "Publisher": "Caphyon",
+        "Version": "22.6",
+        "Comments": "This installer database contains the logic and data required to install Advanced Installer."
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 8.0.15 (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "64.60.31149",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_SQLClickOnceBootstrappermsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+        "Publisher": "Microsoft Corporation",
+        "Version": "14.42.34438.0",
+        "Comments": null
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.7.03062",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+        "Publisher": "Microsoft Corporation",
+        "Version": "14.42.34438.0",
+        "Comments": null
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8 Targeting Pack",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.8.03761",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.4 Shared Framework (x86)",
+        "Publisher": "Microsoft Corporation",
+        "Version": "9.0.4.25164",
+        "Comments": ""
+      },
+      {
+        "Name": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+        "Publisher": "Microsoft Corporation",
+        "Version": "4.8.09256",
+        "Comments": ""
+      },
+      {
+        "Name": "VS Immersive Activate Helper",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.0.157.0",
+        "Comments": ""
+      },
+      {
+        "Name": "IntelliTraceProfilerProxy",
+        "Publisher": "Microsoft Corporation",
+        "Version": "15.0.21225.01",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_clickoncebootstrappermsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "Microsoft Visual Studio Setup Configuration",
+        "Publisher": "Microsoft Corporation",
+        "Version": "3.12.2140.44225",
+        "Comments": ""
+      },
+      {
+        "Name": "icecap_collection_neutral",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_tipsmsi",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35710",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_clickoncebootstrappermsires",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      },
+      {
+        "Name": "vs_filehandler_x86",
+        "Publisher": "Microsoft Corporation",
+        "Version": "17.13.35716",
+        "Comments": ""
+      }
+    ],
+    "NetworkDevices": [
+      {
+        "Name": "Ethernet",
+        "Type": "Ethernet",
+        "SpeedMbps": 0,
+        "MacAddress": "34:73:5A:AC:AA:E5",
+        "Status": "Down",
+        "IPAddresses": [
+          "fe80::e845:24b9:8f76:3c2c%19",
+          "169.254.149.240"
+        ],
+        "GatewayAddresses": []
+      },
+      {
+        "Name": "Local Area Connection* 1",
+        "Type": "Wireless80211",
+        "SpeedMbps": 0,
+        "MacAddress": "B0:7D:64:CA:FA:36",
+        "Status": "Down",
+        "IPAddresses": [
+          "fe80::a1f3:b08a:74f4:4aea%16",
+          "169.254.8.38"
+        ],
+        "GatewayAddresses": []
+      },
+      {
+        "Name": "Local Area Connection* 10",
+        "Type": "Wireless80211",
+        "SpeedMbps": 0,
+        "MacAddress": "B2:7D:64:CA:FA:35",
+        "Status": "Down",
+        "IPAddresses": [
+          "fe80::8c89:3f4a:b903:65c1%8",
+          "169.254.7.244"
+        ],
+        "GatewayAddresses": []
+      },
+      {
+        "Name": "Wi-Fi",
+        "Type": "Wireless80211",
+        "SpeedMbps": 275,
+        "MacAddress": "B0:7D:64:CA:FA:35",
+        "Status": "Up",
+        "IPAddresses": [
+          "fe80::d98b:d46f:b760:828b%12",
+          "10.2.30.116"
+        ],
+        "GatewayAddresses": [
+          "10.2.30.250"
+        ]
+      },
+      {
+        "Name": "Bluetooth Network Connection",
+        "Type": "Ethernet",
+        "SpeedMbps": 3,
+        "MacAddress": "B0:7D:64:CA:FA:39",
+        "Status": "Down",
+        "IPAddresses": [
+          "fe80::4bf3:f3ed:613a:2306%17",
+          "169.254.199.211"
+        ],
+        "GatewayAddresses": []
+      },
+      {
+        "Name": "Loopback Pseudo-Interface 1",
+        "Type": "Loopback",
+        "SpeedMbps": 1073,
+        "MacAddress": "",
+        "Status": "Up",
+        "IPAddresses": [
+          "::1",
+          "127.0.0.1"
+        ],
+        "GatewayAddresses": []
+      }
+    ],
+    "MemoryModules": [],
+    "VideoCards": [
+      {
+        "Name": "Intel(R) UHD Graphics",
+        "Chipset": "Intel(R) UHD Graphics Family",
+        "MemoryMB": 1024,
+        "Resolution": "1920x1080"
+      }
+    ],
+    "SoundDevices": [
+      {
+        "Name": "Intel® Smart Sound Technology (Intel® SST)",
+        "Manufacturer": "Intel(R) Corporation",
+        "Description": "Intel® Smart Sound Technology (Intel® SST)"
+      },
+      {
+        "Name": "Intel(R) Display Audio",
+        "Manufacturer": "Intel(R) Corporation",
+        "Description": "Intel(R) Display Audio"
+      },
+      {
+        "Name": "Realtek Audio",
+        "Manufacturer": "Realtek",
+        "Description": "Realtek Audio"
+      }
+    ],
+    "Controllers": [
+      {
+        "Name": "Microsoft ACPI-Compliant Embedded Controller",
+        "Manufacturer": "(Standard system devices)",
+        "Type": "System"
+      },
+      {
+        "Name": "Intel(R) SPI (flash) Controller - 02A4",
+        "Manufacturer": "INTEL",
+        "Type": "System"
+      },
+      {
+        "Name": "Standard NVM Express Controller",
+        "Manufacturer": "Standard NVM Express Controller",
+        "Type": "SCSIAdapter"
+      },
+      {
+        "Name": "Microsoft Storage Spaces Controller",
+        "Manufacturer": "Microsoft",
+        "Type": "SCSIAdapter"
+      },
+      {
+        "Name": "Intel(R) Serial IO I2C Host Controller - 02E8",
+        "Manufacturer": "Intel Corporation",
+        "Type": "System"
+      },
+      {
+        "Name": "HID-compliant system controller",
+        "Manufacturer": "(Standard system devices)",
+        "Type": "HIDClass"
+      },
+      {
+        "Name": "I/O LPC Controller - 0284 for Intel(R) On-Package Platform Controller Hub",
+        "Manufacturer": "INTEL",
+        "Type": "System"
+      },
+      {
+        "Name": "Intel(R) Smart Sound Technology (Intel(R) SST) Audio Controller",
+        "Manufacturer": "Intel(R) Corporation",
+        "Type": "System"
+      },
+      {
+        "Name": "Intel(R) 400 Series Chipset Family SATA AHCI Controller",
+        "Manufacturer": "Intel Corporation",
+        "Type": "HDC"
+      },
+      {
+        "Name": "Programmable interrupt controller",
+        "Manufacturer": "(Standard system devices)",
+        "Type": "System"
+      },
+      {
+        "Name": "Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)",
+        "Manufacturer": "Generic USB xHCI Host Controller",
+        "Type": "USB"
+      },
+      {
+        "Name": "Realtek PCIe GbE Family Controller",
+        "Manufacturer": "Realtek",
+        "Type": "Net"
+      },
+      {
+        "Name": "Intel(R) Serial IO I2C Host Controller - 02E9",
+        "Manufacturer": "Intel Corporation",
+        "Type": "System"
+      },
+      {
+        "Name": "Intel(R) Serial IO GPIO Host Controller - INT34BB",
+        "Manufacturer": "Intel Corporation",
+        "Type": "System"
+      }
+    ],
+    "Ports": [],
+    "Monitors": [
+      {
+        "Name": "Generic PnP Monitor",
+        "Caption": "Generic PnP Monitor",
+        "ScreenHeight": null,
+        "ScreenWidth": null
+      }
+    ],
+    "InputDevices": [],
+    "Printers": [
+      {
+        "Name": "OneNote for Windows 10",
+        "DriverName": "Microsoft Software Printer Driver",
+        "PortName": "Microsoft.Office.OneNote_16001.14326.22348.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-394692001-3922099375-1372430473-1002",
+        "ServerName": null,
+        "IsShared": false,
+        "IsNetworkPrinter": false
+      },
+      {
+        "Name": "Microsoft XPS Document Writer",
+        "DriverName": "Microsoft XPS Document Writer v4",
+        "PortName": "PORTPROMPT:",
+        "ServerName": null,
+        "IsShared": false,
+        "IsNetworkPrinter": false
+      },
+      {
+        "Name": "Microsoft Print to PDF",
+        "DriverName": "Microsoft Print To PDF",
+        "PortName": "PORTPROMPT:",
+        "ServerName": null,
+        "IsShared": false,
+        "IsNetworkPrinter": false
+      },
+      {
+        "Name": "Fax",
+        "DriverName": "Microsoft Shared Fax Driver",
+        "PortName": "SHRFAX:",
+        "ServerName": null,
+        "IsShared": false,
+        "IsNetworkPrinter": false
+      }
+    ],
+    "VirtualMachineInfo": {
+      "IsVirtualMachine": false,
+      "Manufacturer": "Dell Inc.",
+      "Model": "Latitude 3510"
+    }
+  },
+  "IsIPChange": false,
+  "Timestamp": "2025-05-09T08:05:39.8943997Z"
+}
